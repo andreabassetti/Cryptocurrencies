@@ -9,7 +9,11 @@ The data Martha will be working with is not ideal, so it will need to be process
 ## Results 
 
 Elbow curve using K-means to identify ideal number of clusters:
+![elbowcurve](https://github.com/andreabassetti/Cryptocurrencies/blob/main/PNG/elbowcurve.png)
 
 3D-Scatter plot to visualize cryptocurrencies clusters: 
 
+![3d](https://github.com/andreabassetti/Cryptocurrencies/blob/main/PNG/3d.png)
+
 2D-Scatter plot to visualize cryptocurrencies clusters: 
+![2d](https://github.com/andreabassetti/Cryptocurrencies/blob/main/PNG/2d.png)
